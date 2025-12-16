@@ -1,4 +1,4 @@
-import './App.css'
+import "./App.css";
 
 function App() {
   return (
@@ -50,7 +50,7 @@ function App() {
         <p>Happy coding! 🚀</p>
       </footer>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
